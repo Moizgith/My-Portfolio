@@ -626,3 +626,15 @@ section{
 }
 
 
+.copyright
+{
+    background-color: #656019af;
+    transform: rotate(90deg);
+    width: fit-content;
+    height: fit-content;
+    padding: 30px;
+    border-radius:10px ;
+    position: relative;
+    left: -110px;
+    
+}

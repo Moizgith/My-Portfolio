@@ -156,6 +156,8 @@
 
     .row img {
         padding-top: 20px;
+        width: 500px;
+        height: 700px;
     }
 
     .layer {
